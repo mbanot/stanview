@@ -15,7 +15,7 @@ def webhook(request):
         response.message(message)
 
     def hi():
-        message = f" * Hi* \n" \
+        message = f" * Hi*  \n" \
                   f" *Welcome to Stanview!* \n\n" \
                   f" 1>Fault follow up/ registration \n" \
                   f" 2>Account status enquiry \n" \
